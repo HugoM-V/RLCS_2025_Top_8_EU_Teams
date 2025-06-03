@@ -27,7 +27,7 @@ The goal was to build a compelling, readable line chart to highlight competition
 
 - `pandas` for data processing  
 - `matplotlib` for visualization
-- `Canva for final visual polish and LinkedIn-friendly layout  
+- `Canva` for final visual polish and LinkedIn-friendly layout  
 - Manual data lookup from Liquipedia (April 2025)
 
 ---
